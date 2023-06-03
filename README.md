@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47ev3edf82bk9ldudxigzx5rwqot6fgnkwd3ujx1p6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 🔭 I’m currently working on Arabic Sign Language To Text<br>🌱 I’m currently learning Networking<br>💬 Ask me about anything, I will be happy to help <br>⚡ Fun fact, I listen to jazz while coding
 
-# <img alt="social" width="30" src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp"> Socials:
+# <img alt="social" width="30" src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif"> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar_alshahat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omaralshahat) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/omar_alshahat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/omar_alshahat) 
 
 # <img alt="Coding" width="28" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQzOTc2NzQ1NGYwZTE4NWU5MGFhNjc2ODExMWQ5NzY4MGE2NWFlMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/QssGEmpkyEOhBCb7e1/giphy.gif"> Skills:
