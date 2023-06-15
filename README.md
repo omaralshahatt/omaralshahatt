@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 # <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me:
-<img align="right" alt="Coding" width="510" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+<img align="right" alt="Coding" width="480" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 🔭 I’m currently working on Arabic Sign Language To Text<br>🌱 I’m currently learning Networking<br>💬 Ask me about anything, I will be happy to help <br>⚡ Fun fact, I listen to JAZZ while working
 
 # <img alt="social" width="30" src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif"> Socials:
