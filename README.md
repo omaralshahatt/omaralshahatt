@@ -1,6 +1,8 @@
-![MasterHead](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)
+<h1 align="center">Hi there, I'm <a href="https://github.com/omaralshahatt" target="_blank">Omar</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
 # <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> About Me:
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47ev3edf82bk9ldudxigzx5rwqot6fgnkwd3ujx1p6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="510" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 🔭 I’m currently working on Arabic Sign Language To Text<br>🌱 I’m currently learning Networking<br>💬 Ask me about anything, I will be happy to help <br>⚡ Fun fact, I listen to JAZZ while working
 
 # <img alt="social" width="30" src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif"> Socials:
@@ -10,7 +12,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # <img alt="social" width="35" src="https://media3.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=ecf05e4714qulocfb2y47a8ekcxmzu3odxjz3jsecjb2p53z&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omaralshahatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=omaralshahatt&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=omaralshahatt&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omaralshahatt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
